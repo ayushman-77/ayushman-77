@@ -15,6 +15,4 @@ I am a third year undergraduate of Computer Science and Engineering at Jadavpur 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushman-77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=ayushman-77&color=green)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
